@@ -100,8 +100,3 @@ Closing the program...
 
 **KhadijaCodes-hub**
 🔗 [GitHub Profile](https://github.com/KhadijaCodes-hub)
-
-
-
-Would you like me to create a matching **repo name suggestion** (e.g., `student-grade-management-system`) and short **GitHub description** line too?
-```
