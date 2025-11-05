@@ -33,13 +33,13 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/KhadijaCodes-hub/students-grade-management-system.git
-cd student-grade-management-system
+cd students-grade-management-system
 ````
 
 Run the script:
 
 ```bash
-python student_grades.py
+python student_grade_management.py
 ```
 
 ---
@@ -90,7 +90,7 @@ Closing the program...
 ```
 📁 student-grade-management-system
 │
-├── student_grades.py    # Main program file
+├── student_grade_management.py    # Main program file
 └── README.md            # Documentation
 ```
 
